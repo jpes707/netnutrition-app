@@ -1,9 +1,5 @@
 # NetNutrition App
 
-## Final video demo link
-
-[YouTube Link](https://www.youtube.com/watch?v=TF5ex0PHpfA)
-
 ## What does the app do?
 
 The app will act as a mobile interface for the Duke NetNutrition website that allows users to select foods they ate during the day, automatically populating all statistics like calories, carbs, etc. into HealthKit.
